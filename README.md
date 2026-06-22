@@ -250,3 +250,4 @@ See `docs/API_DOCUMENTATION.md` for full request/response examples.
 - Role-based access enforced at both method level (`@PreAuthorize`) and HTTP security config
 - CORS locked to `http://localhost:3000` in development
 - Services are soft-deleted (set `is_active = false`) to preserve appointment history integrity
+"# BookSmart-Appointment-Booking-System" 
